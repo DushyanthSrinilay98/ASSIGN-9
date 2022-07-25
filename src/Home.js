@@ -6,44 +6,44 @@ function Home() {
     <div>
       <b>THIS IS NBA FANPOINT!</b>
       <Card
-        img="https://phantom-marca.unidadeditorial.es/963b5b507cbbd053c14b2da121bcc3e1/resize/1320/f/jpg/assets/multimedia/imagenes/2020/12/09/16075360309119.jpg"
-        title="Los Angeles Lakers"
+        img="https://media.news9live.com/h-upload/2022/03/11/255149-newproject-2022-03-12t002224291.webp"
+        title="Mumbai Indians"
         description="Take your boring salads up a knotch. This recipe is perfect for lunch
           and only contains 5 ingredients!"
       />
       <Card
-        img="https://fadeawayworld.net/.image/t_share/MTg1NDY4NzcyODA1NTE4NjI3/chicago-bulls.jpg"
-        title="Chicago Bulls"
+        img="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/1200px-Chennai_Super_Kings_Logo.svg.png"
+        title="Chennai super kings"
         description="Take your boring salads up a knotch. This recipe is perfect for lunch
           and only contains 5 ingredients!"
       />
       <Card
-        img="https://images2.minutemediacdn.com/image/fetch/c_fill,g_auto,f_auto,h_2133,w_3200/https%3A%2F%2Fchowderandchampions.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2016%2F04%2F1039322174.jpeg"
-        title="Boston Celtics"
+        img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKlB61waTiJwll2gEMB_2jcdMfdE2mLU5GVA&usqp=CAU"
+        title="Rajasthan royals"
         description="Take your boring salads up a knotch. This recipe is perfect for lunch
           and only contains 5 ingredients!"
       />
       <Card
-        img="https://fadeawayworld.net/.image/t_share/MTg3MDk0ODQwMTc2MDI3MTE5/clippers-point-guards.jpg"
-        title="Los Angeles Clippers"
+        img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMEFWDaF3QedWxhD4Pe18yDhEOS8l6QI9C5A&usqp=CAU"
+        title="Kings 11 punjab"
         description="Take your boring salads up a knotch. This recipe is perfect for lunch
           and only contains 5 ingredients!"
       />
       <Card
-        img="https://fadeawayworld.net/.image/t_share/MTgwMTMyOTgzMjcxODU5MzIy/bucks-roster.jpg"
-        title="Milwaukee Bucks"
+        img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWP9ku0stPAAmY4j-7IgedkwQAshLX_qprtA&usqp=CAU"
+        title="Sun rises hyderabed"
         description="Take your boring salads up a knotch. This recipe is perfect for lunch
           and only contains 5 ingredients!"
       />
       <Card
-        img="https://fadeawayworld.net/.image/t_share/MTgwMTMyNjcwMjc5NDYwMTg0/nba-rumors-10-perfect-targets-for-the-houston-rockets-small-ball-team.jpg"
-        title="Houston Rockets"
+        img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNaaAZWXDdGjhytmJ8Ytuqi5RHgT9S3fTAcg&usqp=CAU"
+        title="Gujarat titans"
         description="Take your boring salads up a knotch. This recipe is perfect for lunch
           and only contains 5 ingredients!"
       />
       <Card
-        img="https://i.ytimg.com/vi/z09Ww8T2YtI/maxresdefault.jpg"
-        title="Toronto Raptors"
+        img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2wjvpCj0IcZQaPA-N3hcsE7vOmlAf6_Ih2A&usqp=CAU"
+        title="Delhi daredevills"
         description="Take your boring salads up a knotch. This recipe is perfect for lunch
           and only contains 5 ingredients!"
       />
