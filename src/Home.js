@@ -4,7 +4,7 @@ import './style.css'
 function Home() {
   return (
     <div>
-      <b>THIS IS NBA FANPOINT!</b>
+      <b>THIS IS IPL FANPOINT!</b>
       <Card
         img="https://media.news9live.com/h-upload/2022/03/11/255149-newproject-2022-03-12t002224291.webp"
         title="Mumbai Indians"
